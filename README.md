@@ -76,13 +76,6 @@ Flask or Streamlit-based web interface
 
 Accepts image input and displays disease prediction
 
-# 🖥️ How to Run
-bash
-Copy
-Edit
-# Clone the repository
-git clone https://github.com/yourusername/pomegranate-disease-detection.git
-cd pomegranate-disease-detection
 
 # Create virtual environment and activate
 python -m venv venv
@@ -91,9 +84,6 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 # Install dependencies
 pip install -r requirements.txt
 
-# Run the web app
-streamlit run app.py
-📝 Note: Replace app.py with main.py or flask_app.py depending on your deployment.
 
 # 📸 Screenshots
 (Add images of the app interface and sample predictions here)
